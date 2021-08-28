@@ -1,1 +1,2 @@
-# Weather application for iOS
+# Weather application for iOS with location support
+
